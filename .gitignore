@@ -1,0 +1,23 @@
+# Ignore virtual environment
+venv/
+
+# Ignore the course content repo (assuming it's cloned inside your project)
+tools-in-data-science-public/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+
+# VSCode settings (optional)
+.vscode/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Logs or temp files
+*.log
