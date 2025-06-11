@@ -21,3 +21,8 @@ __pycache__/
 
 # Logs or temp files
 *.log
+
+#ignore all json and jsonl files 
+*.json
+*.jsonl
+

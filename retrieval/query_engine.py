@@ -11,7 +11,21 @@ collection = client.get_or_create_collection("tds_content")
 
 def get_top_chunks(question, k=5):
     query_embedding = model.encode([question]).tolist()
-    results = collection.query(query_embeddings=query_embedding, n_results=k)
-    
-    # You can choose to return just content or (content + metadata)
-    return results["documents"][0]  # list of top-k chunks
+
+    results = collection.query(
+        query_embeddings=query_embedding,
+        n_results=k,
+        include=["documents", "metadatas"]
+    )
+
+    documents = results.get("documents", [[]])[0]
+    metadatas = results.get("metadatas", [[]])[0]
+
+    top_chunks = []
+    for doc, meta in zip(documents, metadatas):
+        top_chunks.append({
+            "content": doc,
+            "metadata": meta or {}
+        })
+
+    return top_chunks

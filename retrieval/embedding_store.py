@@ -7,7 +7,7 @@ from chromadb.utils import embedding_functions
 
 # Paths
 COURSE_FILE = Path("data/course_content.txt")
-DISCOURSE_FILE = Path("data/discourse_posts.jsonl")
+DISCOURSE_FILE = Path("data/discourse_filtered_posts.jsonl")
 
 # Chroma DB setup
 client = chromadb.PersistentClient(path="db")
