@@ -6,7 +6,7 @@ prompts:
 providers:
   - id: https
     config:
-      url: http://127.0.0.1:8000/api/
+      url: https://1b3c-54-88-103-239.ngrok-free.app/api/
       method: POST
       headers:
         Content-Type: application/json

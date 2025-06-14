@@ -9,6 +9,7 @@ load_dotenv()
 # 👇 Use a directory inside your project folder
 persist_dir = os.path.join(os.getcwd(), "db")
 
+print(persist_dir)
 # ✅ Use the same embedding model you used during embedding
 embedding_model = "text-embedding-3-small"
 embeddings = OpenAIEmbeddings(model=embedding_model)
