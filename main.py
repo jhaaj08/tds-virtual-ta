@@ -51,3 +51,7 @@ async def answer_question(query: Query):
     answer, links = generate_answer(query.question, top_chunks)
 
     return {"answer": answer, "links": links}
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
