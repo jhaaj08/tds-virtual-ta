@@ -1,6 +1,8 @@
 # retrieval/query_engine.py
 from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
+from dotenv import load_dotenv
+load_dotenv()
 
 # ✅ Make sure this matches your actual DB path
 persist_dir = "/Users/ajitjha/Downloads/db"
