@@ -3,6 +3,9 @@ from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
 import os 
 
+from dotenv import load_dotenv
+load_dotenv()
+
 # 👇 Use a directory inside your project folder
 persist_dir = os.path.join(os.getcwd(), "db")
 
