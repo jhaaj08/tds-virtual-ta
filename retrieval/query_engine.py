@@ -1,31 +1,32 @@
 # retrieval/query_engine.py
+from langchain_chroma import Chroma
+from langchain_openai import OpenAIEmbeddings
 
-from sentence_transformers import SentenceTransformer
-import chromadb
-from chromadb.config import Settings
+# ✅ Make sure this matches your actual DB path
+persist_dir = "/Users/ajitjha/Downloads/db"
 
-model = SentenceTransformer("all-MiniLM-L6-v2")  # or whatever you used earlier
+# ✅ Use the same embedding model you used during embedding
+embedding_model = "text-embedding-3-small"
+embeddings = OpenAIEmbeddings(model=embedding_model)
 
-client = chromadb.PersistentClient(path="db")
-collection = client.get_or_create_collection("tds_content")
+# ✅ Initialize the Chroma DB
+db = Chroma(
+    persist_directory=persist_dir,
+    embedding_function=embeddings,
+)
 
-def get_top_chunks(question, k=5):
-    query_embedding = model.encode([question]).tolist()
+# ✅ Create retriever
+retriever = db.as_retriever(search_kwargs={"k": 5})
 
-    results = collection.query(
-        query_embeddings=query_embedding,
-        n_results=k,
-        include=["documents", "metadatas"]
-    )
-
-    documents = results.get("documents", [[]])[0]
-    metadatas = results.get("metadatas", [[]])[0]
+# ✅ Core function to get top chunks for a query
+def get_top_chunks(query: str):
+    docs = retriever.invoke(query)
 
     top_chunks = []
-    for doc, meta in zip(documents, metadatas):
+    for doc in docs:
         top_chunks.append({
-            "content": doc,
-            "metadata": meta or {}
+            "content": doc.page_content,
+            "metadata": doc.metadata
         })
 
     return top_chunks

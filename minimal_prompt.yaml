@@ -1,0 +1,25 @@
+description: "TDS Virtual TA Minimal Check"
+
+prompts:
+  - "dummy prompt" # Required by schema
+
+providers:
+  - id: https
+    config:
+      url: http://127.0.0.1:8000/api/
+      method: POST
+      headers:
+        Content-Type: application/json
+      body: |
+        {
+          "question": "{{ question }}"
+        }
+      transformResponse: json
+
+tests:
+  - vars:
+      question: I know Docker but have not used Podman before. Should I use Docker for this course?
+    assert:
+      - type: contains
+        transform: output.answer
+        value: Docker

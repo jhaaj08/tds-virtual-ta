@@ -1,0 +1,3067 @@
+## Thread: GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]
+
+### s.anand (2025-01-31)
+Please post any questions related to [Graded Assignment 4 - Data
+Sourcing](https://exam.sanand.workers.dev/tds-2025-01-ga4).
+
+Please use markdown code formatting (fenced code blocks) when sharing code
+(rather than screenshots). It’s easier for us to copy-paste and test.
+
+Deadline: Sunday, February 9, 2025 6:29 PM
+
+[@Jivraj](/u/jivraj) [@Saransh_Saini](/u/saransh_saini) [@carlton](/u/carlton)
+
+### s.anand (2025-01-31)
+Please post any questions related to [Graded Assignment 4 - Data
+Sourcing](https://exam.sanand.workers.dev/tds-2025-01-ga4).
+
+Please use markdown code formatting (fenced code blocks) when sharing code
+(rather than screenshots). It’s easier for us to copy-paste and test.
+
+Deadline: Sunday, February 9, 2025 6:29 PM
+
+[@Jivraj](/u/jivraj) [@Saransh_Saini](/u/saransh_saini) [@carlton](/u/carlton)
+
+### s.anand (2025-01-31)
+Please post any questions related to [Graded Assignment 4 - Data
+Sourcing](https://exam.sanand.workers.dev/tds-2025-01-ga4).
+
+Please use markdown code formatting (fenced code blocks) when sharing code
+(rather than screenshots). It’s easier for us to copy-paste and test.
+
+Deadline: Sunday, February 9, 2025 6:29 PM
+
+[@Jivraj](/u/jivraj) [@Saransh_Saini](/u/saransh_saini) [@carlton](/u/carlton)
+
+### s.anand (2025-01-31)
+Please post any questions related to [Graded Assignment 4 - Data
+Sourcing](https://exam.sanand.workers.dev/tds-2025-01-ga4).
+
+Please use markdown code formatting (fenced code blocks) when sharing code
+(rather than screenshots). It’s easier for us to copy-paste and test.
+
+Deadline: Sunday, February 9, 2025 6:29 PM
+
+[@Jivraj](/u/jivraj) [@Saransh_Saini](/u/saransh_saini) [@carlton](/u/carlton)
+
+### s.anand (2025-01-31)
+Please post any questions related to [Graded Assignment 4 - Data
+Sourcing](https://exam.sanand.workers.dev/tds-2025-01-ga4).
+
+Please use markdown code formatting (fenced code blocks) when sharing code
+(rather than screenshots). It’s easier for us to copy-paste and test.
+
+Deadline: Sunday, February 9, 2025 6:29 PM
+
+[@Jivraj](/u/jivraj) [@Saransh_Saini](/u/saransh_saini) [@carlton](/u/carlton)
+
+### s.anand (2025-01-31)
+Please post any questions related to [Graded Assignment 4 - Data
+Sourcing](https://exam.sanand.workers.dev/tds-2025-01-ga4).
+
+Please use markdown code formatting (fenced code blocks) when sharing code
+(rather than screenshots). It’s easier for us to copy-paste and test.
+
+Deadline: Sunday, February 9, 2025 6:29 PM
+
+[@Jivraj](/u/jivraj) [@Saransh_Saini](/u/saransh_saini) [@carlton](/u/carlton)
+
+### s.anand (2025-01-31)
+Please post any questions related to [Graded Assignment 4 - Data
+Sourcing](https://exam.sanand.workers.dev/tds-2025-01-ga4).
+
+Please use markdown code formatting (fenced code blocks) when sharing code
+(rather than screenshots). It’s easier for us to copy-paste and test.
+
+Deadline: Sunday, February 9, 2025 6:29 PM
+
+[@Jivraj](/u/jivraj) [@Saransh_Saini](/u/saransh_saini) [@carlton](/u/carlton)
+
+### s.anand (2025-01-31)
+
+
+### s.anand (2025-01-31)
+
+
+### s.anand (2025-01-31)
+
+
+### s.anand (2025-01-31)
+
+
+### s.anand (2025-01-31)
+
+
+### s.anand (2025-01-31)
+
+
+### s.anand (2025-01-31)
+
+
+### s.anand (2025-01-31)
+
+
+### 22f3001315 (2025-02-01)
+[![Screenshot 2025-02-01 132301](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png)Screenshot
+2025-02-01 132301331×314 12.3 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png
+"Screenshot 2025-02-01 132301")
+
+  
+what is the error here?? sir [@Jivraj](/u/jivraj)
+
+### 22f3001315 (2025-02-01)
+[![Screenshot 2025-02-01 132301](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png)Screenshot
+2025-02-01 132301331×314 12.3 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png
+"Screenshot 2025-02-01 132301")
+
+  
+what is the error here?? sir [@Jivraj](/u/jivraj)
+
+### 22f3001315 (2025-02-01)
+[![Screenshot 2025-02-01 132301](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png)Screenshot
+2025-02-01 132301331×314 12.3 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png
+"Screenshot 2025-02-01 132301")
+
+  
+what is the error here?? sir [@Jivraj](/u/jivraj)
+
+### 22f3001315 (2025-02-01)
+[![Screenshot 2025-02-01 132301](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png)Screenshot
+2025-02-01 132301331×314 12.3 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png
+"Screenshot 2025-02-01 132301")
+
+  
+what is the error here?? sir [@Jivraj](/u/jivraj)
+
+### 22f3001315 (2025-02-01)
+[![Screenshot 2025-02-01 132301](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png)Screenshot
+2025-02-01 132301331×314 12.3 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png
+"Screenshot 2025-02-01 132301")
+
+  
+what is the error here?? sir [@Jivraj](/u/jivraj)
+
+### 22f3001315 (2025-02-01)
+[![Screenshot 2025-02-01 132301](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png)Screenshot
+2025-02-01 132301331×314 12.3 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png
+"Screenshot 2025-02-01 132301")
+
+  
+what is the error here?? sir [@Jivraj](/u/jivraj)
+
+### 22f3001315 (2025-02-01)
+[![Screenshot 2025-02-01 132301](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png)Screenshot
+2025-02-01 132301331×314 12.3 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png
+"Screenshot 2025-02-01 132301")
+
+  
+what is the error here?? sir [@Jivraj](/u/jivraj)
+
+### 22f3001315 (2025-02-01)
+[![Screenshot 2025-02-01 132301](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png)Screenshot
+2025-02-01 132301331×314 12.3 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png
+"Screenshot 2025-02-01 132301")
+
+  
+what is the error here?? sir [@Jivraj](/u/jivraj)
+
+### 22f3001315 (2025-02-01)
+[![Screenshot 2025-02-01 132301](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png)Screenshot
+2025-02-01 132301331×314 12.3 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/0/0/0007976ca3410205e4fa403a71b9a1ac79bf5192.png
+"Screenshot 2025-02-01 132301")
+
+  
+what is the error here?? sir [@Jivraj](/u/jivraj)
+
+### 24ds2000024 (2025-02-01)
+I have the Same doubt.
+
+### 24ds2000024 (2025-02-01)
+I have the Same doubt.
+
+### 24ds2000024 (2025-02-01)
+I have the Same doubt.
+
+### 24ds2000024 (2025-02-01)
+I have the Same doubt.
+
+### 24ds2000024 (2025-02-01)
+I have the Same doubt.
+
+### 24ds2000024 (2025-02-01)
+I have the Same doubt.
+
+### 24ds2000024 (2025-02-01)
+I have the Same doubt.
+
+### 24ds2000024 (2025-02-01)
+I have the Same doubt.
+
+### 24ds2000024 (2025-02-01)
+I have the Same doubt.
+
+### 24ds2000024 (2025-02-01)
+I have the Same doubt.
+
+### 24ds2000024 (2025-02-01)
+I have the Same doubt.
+
+### s.anand (2025-02-02)
+[@22f3001315](/u/22f3001315) [@21f3002277](/u/21f3002277)
+[@24ds2000024](/u/24ds2000024) – please try again after reloading the page.
+The new error message will be clearer, like this:
+
+    
+    
+    Error: At [0].rating: Values don't match. Expected: "7.4". Actual: 7.4
+    
+
+FYI, we expect all values as strings, not numbers. That’s because the year can
+sometimes be a range for a TV series (e.g. 2021 - 2024) and the rating can
+sometimes be missing.
+
+### s.anand (2025-02-02)
+[@22f3001315](/u/22f3001315) [@21f3002277](/u/21f3002277)
+[@24ds2000024](/u/24ds2000024) – please try again after reloading the page.
+The new error message will be clearer, like this:
+
+    
+    
+    Error: At [0].rating: Values don't match. Expected: "7.4". Actual: 7.4
+    
+
+FYI, we expect all values as strings, not numbers. That’s because the year can
+sometimes be a range for a TV series (e.g. 2021 - 2024) and the rating can
+sometimes be missing.
+
+### s.anand (2025-02-02)
+[@22f3001315](/u/22f3001315) [@21f3002277](/u/21f3002277)
+[@24ds2000024](/u/24ds2000024) – please try again after reloading the page.
+The new error message will be clearer, like this:
+
+    
+    
+    Error: At [0].rating: Values don't match. Expected: "7.4". Actual: 7.4
+    
+
+FYI, we expect all values as strings, not numbers. That’s because the year can
+sometimes be a range for a TV series (e.g. 2021 - 2024) and the rating can
+sometimes be missing.
+
+### s.anand (2025-02-02)
+[@22f3001315](/u/22f3001315) [@21f3002277](/u/21f3002277)
+[@24ds2000024](/u/24ds2000024) – please try again after reloading the page.
+The new error message will be clearer, like this:
+
+    
+    
+    Error: At [0].rating: Values don't match. Expected: "7.4". Actual: 7.4
+    
+
+FYI, we expect all values as strings, not numbers. That’s because the year can
+sometimes be a range for a TV series (e.g. 2021 - 2024) and the rating can
+sometimes be missing.
+
+### s.anand (2025-02-02)
+[@22f3001315](/u/22f3001315) [@21f3002277](/u/21f3002277)
+[@24ds2000024](/u/24ds2000024) – please try again after reloading the page.
+The new error message will be clearer, like this:
+
+    
+    
+    Error: At [0].rating: Values don't match. Expected: "7.4". Actual: 7.4
+    
+
+FYI, we expect all values as strings, not numbers. That’s because the year can
+sometimes be a range for a TV series (e.g. 2021 - 2024) and the rating can
+sometimes be missing.
+
+### s.anand (2025-02-02)
+[@22f3001315](/u/22f3001315) [@21f3002277](/u/21f3002277)
+[@24ds2000024](/u/24ds2000024) – please try again after reloading the page.
+The new error message will be clearer, like this:
+
+    
+    
+    Error: At [0].rating: Values don't match. Expected: "7.4". Actual: 7.4
+    
+
+FYI, we expect all values as strings, not numbers. That’s because the year can
+sometimes be a range for a TV series (e.g. 2021 - 2024) and the rating can
+sometimes be missing.
+
+### s.anand (2025-02-02)
+[@22f3001315](/u/22f3001315) [@21f3002277](/u/21f3002277)
+[@24ds2000024](/u/24ds2000024) – please try again after reloading the page.
+The new error message will be clearer, like this:
+
+    
+    
+    Error: At [0].rating: Values don't match. Expected: "7.4". Actual: 7.4
+    
+
+FYI, we expect all values as strings, not numbers. That’s because the year can
+sometimes be a range for a TV series (e.g. 2021 - 2024) and the rating can
+sometimes be missing.
+
+### s.anand (2025-02-02)
+[@22f3001315](/u/22f3001315) [@21f3002277](/u/21f3002277)
+[@24ds2000024](/u/24ds2000024) – please try again after reloading the page.
+The new error message will be clearer, like this:
+
+    
+    
+    Error: At [0].rating: Values don't match. Expected: "7.4". Actual: 7.4
+    
+
+FYI, we expect all values as strings, not numbers. That’s because the year can
+sometimes be a range for a TV series (e.g. 2021 - 2024) and the rating can
+sometimes be missing.
+
+### s.anand (2025-02-02)
+[@22f3001315](/u/22f3001315) [@21f3002277](/u/21f3002277)
+[@24ds2000024](/u/24ds2000024) – please try again after reloading the page.
+The new error message will be clearer, like this:
+
+    
+    
+    Error: At [0].rating: Values don't match. Expected: "7.4". Actual: 7.4
+    
+
+FYI, we expect all values as strings, not numbers. That’s because the year can
+sometimes be a range for a TV series (e.g. 2021 - 2024) and the rating can
+sometimes be missing.
+
+### s.anand (2025-02-02)
+[@22f3001315](/u/22f3001315) [@21f3002277](/u/21f3002277)
+[@24ds2000024](/u/24ds2000024) – please try again after reloading the page.
+The new error message will be clearer, like this:
+
+    
+    
+    Error: At [0].rating: Values don't match. Expected: "7.4". Actual: 7.4
+    
+
+FYI, we expect all values as strings, not numbers. That’s because the year can
+sometimes be a range for a TV series (e.g. 2021 - 2024) and the rating can
+sometimes be missing.
+
+### s.anand (2025-02-02)
+[@22f3001315](/u/22f3001315) [@21f3002277](/u/21f3002277)
+[@24ds2000024](/u/24ds2000024) – please try again after reloading the page.
+The new error message will be clearer, like this:
+
+    
+    
+    Error: At [0].rating: Values don't match. Expected: "7.4". Actual: 7.4
+    
+
+FYI, we expect all values as strings, not numbers. That’s because the year can
+sometimes be a range for a TV series (e.g. 2021 - 2024) and the rating can
+sometimes be missing.
+
+### s.anand (2025-02-02)
+[@22f3001315](/u/22f3001315) [@21f3002277](/u/21f3002277)
+[@24ds2000024](/u/24ds2000024) – please try again after reloading the page.
+The new error message will be clearer, like this:
+
+    
+    
+    Error: At [0].rating: Values don't match. Expected: "7.4". Actual: 7.4
+    
+
+FYI, we expect all values as strings, not numbers. That’s because the year can
+sometimes be a range for a TV series (e.g. 2021 - 2024) and the rating can
+sometimes be missing.
+
+### 23f2000237 (2025-02-02)
+In Question 2, it is specifically said to filter the movies however, the
+evaluator is expecting a TV show there. Should we also include TV shows now?
+
+edit: This is an everchanging dataset, so will our answers be saved, as, this
+json might not be in this order tomorrow?
+
+### 23f2000237 (2025-02-02)
+In Question 2, it is specifically said to filter the movies however, the
+evaluator is expecting a TV show there. Should we also include TV shows now?
+
+edit: This is an everchanging dataset, so will our answers be saved, as, this
+json might not be in this order tomorrow?
+
+### 23f2000237 (2025-02-02)
+In Question 2, it is specifically said to filter the movies however, the
+evaluator is expecting a TV show there. Should we also include TV shows now?
+
+edit: This is an everchanging dataset, so will our answers be saved, as, this
+json might not be in this order tomorrow?
+
+### 23f2000237 (2025-02-02)
+In Question 2, it is specifically said to filter the movies however, the
+evaluator is expecting a TV show there. Should we also include TV shows now?
+
+edit: This is an everchanging dataset, so will our answers be saved, as, this
+json might not be in this order tomorrow?
+
+### 23f2000237 (2025-02-02)
+In Question 2, it is specifically said to filter the movies however, the
+evaluator is expecting a TV show there. Should we also include TV shows now?
+
+edit: This is an everchanging dataset, so will our answers be saved, as, this
+json might not be in this order tomorrow?
+
+### 23f2000237 (2025-02-02)
+In Question 2, it is specifically said to filter the movies however, the
+evaluator is expecting a TV show there. Should we also include TV shows now?
+
+edit: This is an everchanging dataset, so will our answers be saved, as, this
+json might not be in this order tomorrow?
+
+### 23f2000237 (2025-02-02)
+In Question 2, it is specifically said to filter the movies however, the
+evaluator is expecting a TV show there. Should we also include TV shows now?
+
+edit: This is an everchanging dataset, so will our answers be saved, as, this
+json might not be in this order tomorrow?
+
+### 23f2000237 (2025-02-02)
+In Question 2, it is specifically said to filter the movies however, the
+evaluator is expecting a TV show there. Should we also include TV shows now?
+
+edit: This is an everchanging dataset, so will our answers be saved, as, this
+json might not be in this order tomorrow?
+
+### 23f2000237 (2025-02-02)
+In Question 2, it is specifically said to filter the movies however, the
+evaluator is expecting a TV show there. Should we also include TV shows now?
+
+edit: This is an everchanging dataset, so will our answers be saved, as, this
+json might not be in this order tomorrow?
+
+### 23f2000237 (2025-02-02)
+In Question 2, it is specifically said to filter the movies however, the
+evaluator is expecting a TV show there. Should we also include TV shows now?
+
+edit: This is an everchanging dataset, so will our answers be saved, as, this
+json might not be in this order tomorrow?
+
+### 23f2000237 (2025-02-02)
+In Question 2, it is specifically said to filter the movies however, the
+evaluator is expecting a TV show there. Should we also include TV shows now?
+
+edit: This is an everchanging dataset, so will our answers be saved, as, this
+json might not be in this order tomorrow?
+
+### 23f2000237 (2025-02-02)
+In Question 2, it is specifically said to filter the movies however, the
+evaluator is expecting a TV show there. Should we also include TV shows now?
+
+edit: This is an everchanging dataset, so will our answers be saved, as, this
+json might not be in this order tomorrow?
+
+### 23f2000237 (2025-02-02)
+In Question 2, it is specifically said to filter the movies however, the
+evaluator is expecting a TV show there. Should we also include TV shows now?
+
+edit: This is an everchanging dataset, so will our answers be saved, as, this
+json might not be in this order tomorrow?
+
+### s.anand (2025-02-02)
+[@23f2000237](/u/23f2000237) A good point. Yes, please include _all_ titles.
+I’ve reworded the question accordingly. Thanks.
+
+### s.anand (2025-02-02)
+[@23f2000237](/u/23f2000237) A good point. Yes, please include _all_ titles.
+I’ve reworded the question accordingly. Thanks.
+
+### s.anand (2025-02-02)
+[@23f2000237](/u/23f2000237) A good point. Yes, please include _all_ titles.
+I’ve reworded the question accordingly. Thanks.
+
+### s.anand (2025-02-02)
+[@23f2000237](/u/23f2000237) A good point. Yes, please include _all_ titles.
+I’ve reworded the question accordingly. Thanks.
+
+### s.anand (2025-02-02)
+[@23f2000237](/u/23f2000237) A good point. Yes, please include _all_ titles.
+I’ve reworded the question accordingly. Thanks.
+
+### s.anand (2025-02-02)
+[@23f2000237](/u/23f2000237) A good point. Yes, please include _all_ titles.
+I’ve reworded the question accordingly. Thanks.
+
+### s.anand (2025-02-02)
+[@23f2000237](/u/23f2000237) A good point. Yes, please include _all_ titles.
+I’ve reworded the question accordingly. Thanks.
+
+### s.anand (2025-02-02)
+[@23f2000237](/u/23f2000237) A good point. Yes, please include _all_ titles.
+I’ve reworded the question accordingly. Thanks.
+
+### s.anand (2025-02-02)
+[@23f2000237](/u/23f2000237) A good point. Yes, please include _all_ titles.
+I’ve reworded the question accordingly. Thanks.
+
+### s.anand (2025-02-02)
+[@23f2000237](/u/23f2000237) A good point. Yes, please include _all_ titles.
+I’ve reworded the question accordingly. Thanks.
+
+### s.anand (2025-02-02)
+[@23f2000237](/u/23f2000237) A good point. Yes, please include _all_ titles.
+I’ve reworded the question accordingly. Thanks.
+
+### s.anand (2025-02-02)
+[@23f2000237](/u/23f2000237) A good point. Yes, please include _all_ titles.
+I’ve reworded the question accordingly. Thanks.
+
+### s.anand (2025-02-02)
+[@23f2000237](/u/23f2000237) A good point. Yes, please include _all_ titles.
+I’ve reworded the question accordingly. Thanks.
+
+### s.anand (2025-02-02)
+[@23f2000237](/u/23f2000237) A good point. Yes, please include _all_ titles.
+I’ve reworded the question accordingly. Thanks.
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 21f3002277 (2025-02-02)
+Q3. How to handle the error ? [@Jivraj](/u/jivraj)
+
+TypeError: Cannot read properties of null (reading ‘0’)
+
+    
+    
+    http://127.0.0.1:8000/api/outline?country=Russia
+    
+    {"outline":"## Contents\n# Russia\n## Etymology\n## History\n### Early history\n### Kievan Rus'\n### Grand Duchy of Moscow\n### Tsardom of Russia\n### Imperial Russia\n#### Great power and development of society, sciences, and arts\n#### Great liberal reforms and capitalism\n#### Constitutional monarchy and World War\n### Revolution and civil war\n### Soviet Union\n#### Command economy and Soviet society\n#### Stalinism and modernisation\n#### World War II and United Nations\n#### Superpower and Cold War\n#### Khrushchev Thaw reforms and economic development\n#### Period of developed socialism or Era of Stagnation\n#### Perestroika, democratisation and Russian sovereignty\n### Independent Russian Federation\n#### Transition to a market economy and political crises\n#### Modern liberal constitution, international cooperation and economic stabilisation\n#### Movement towards a modernised economy, political centralisation and democratic backsliding\n#### Invasion of Ukraine\n## Geography\n### Climate\n### Biodiversity\n## Government and politics\n### Political divisions\n### Foreign relations\n### Military\n### Human rights\n### Corruption\n### Law and crime\n## Economy\n### Transport and energy\n### Agriculture and fishery\n### Science and technology\n#### Space exploration\n### Tourism\n## Demographics\n### Language\n### Religion\n### Education\n### Health\n## Culture\n### Holidays\n### Art and architecture\n### Music\n### Literature and philosophy\n### Cuisine\n### Mass media and cinema\n### Sports\n## See also\n## Notes\n## References\n## Sources\n## Further reading\n## External links"}
+    
+    
+
+error resolved
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 22f3001315 (2025-02-02)
+in my output which is correct  
+there are two \n instead of one .
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 21f3002277 (2025-02-02)
+it should one(for newline), my code is working now
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 24ds2000024 (2025-02-02)
+Dear Sir,  
+I was at 2/10 yesterday. After pasting JSON file of IMDB & reloading as
+suggested My marks updated to 3/10. Kindly confirm if I have got whole of IMDB
+question.
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 21f3002277 (2025-02-02)
+Q4. How to handle the error ? [@Jivraj](/u/jivraj)
+
+Error: At 2025-02-05: Values don’t match
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2003853 (2025-02-03)
+There is no submit button is available in below screen. Is it fine to save the
+link url only. Please clarify (unless we click submit button the log of Graded
+Assignment 4 remains red)  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3_2_690x388.png)image1920×1080
+337 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/6/9/699d94f19d189a93a67fb813a5eeed3d1f73abf3.png
+"image")
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### 23f2000237 (2025-02-03)
+I have a doubt regarding the bonus mark. Suppose someone were to get 10/10 in
+the assignment, would their mark be recored as 11/10 or just 10?  
+(Assuming they have interacted in this thread)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### s.anand (2025-02-03)
+Anyone scoring 10/10 on GA4 and replying with a _relevant_ message on this
+thread will get 11/10 ![:slight_smile:](https://emoji.discourse-
+cdn.com/google/slight_smile.png?v=12)
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 23f2003853 (2025-02-03)
+For me I just made filter of rating between 2 and 7 in site and typed in
+console as per video. with that data got in console worked fine.  
+copy the coding and save in place use it for data extract when finally submit
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### 22f2000113 (2025-02-03)
+For question 2 getting Error: At [8].title: Values don’t match. Expected: “9.
+Un matrimonio di troppo”. Actual: “9. You’re Cordially Invited” But this movie
+is not found when searched by name  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/optimized/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93_2_690x143.png)image1414×295
+19 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/1/b/1b7f2ec2868a09d8b4ed3fc50afa02f8416dad93.png
+"image")
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### nilaychugh (2025-02-04)
+how to get the BBC weather API key?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### JoelJeffrey (2025-02-04)
+Just a quick query on the Bonus mark.
+
+Would this be added to the final grade? Say for example, Someone get a full
+score in the first 4 assignments. So the total comes up to 39.5/39.5, and
+would be converted to 0.15 or 15 marks. Would the bonus mark be additional to
+that 15 or would the score change to 40.5/39.5 and then get normalised to 15?
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### s.anand (2025-02-04)
+[@JoelJeffrey](/u/joeljeffrey) It will be added to the GA4 marks, not the
+final grade. So, it’s roughly worth 0.15% on the total - not a full 1% on the
+total.
+
+### 23f2003751 (2025-02-04)
+you can go and login using your email id in this below mentioned link
+
+<https://home.openweathermap.org/api_keys>
+
+### 23f2003751 (2025-02-04)
+you can go and login using your email id in this below mentioned link
+
+<https://home.openweathermap.org/api_keys>
+
+### 23f2003751 (2025-02-04)
+you can go and login using your email id in this below mentioned link
+
+<https://home.openweathermap.org/api_keys>
+
+### 23f2003751 (2025-02-04)
+you can go and login using your email id in this below mentioned link
+
+<https://home.openweathermap.org/api_keys>
+
+### 23f2003751 (2025-02-04)
+you can go and login using your email id in this below mentioned link
+
+<https://home.openweathermap.org/api_keys>
+
+### 23f2003751 (2025-02-04)
+you can go and login using your email id in this below mentioned link
+
+<https://home.openweathermap.org/api_keys>
+
+### 23f2003751 (2025-02-04)
+you can go and login using your email id in this below mentioned link
+
+<https://home.openweathermap.org/api_keys>
+
+### 23f2003751 (2025-02-04)
+you can go and login using your email id in this below mentioned link
+
+<https://home.openweathermap.org/api_keys>
+
+### 23f2003751 (2025-02-04)
+you can go and login using your email id in this below mentioned link
+
+<https://home.openweathermap.org/api_keys>
+
+### 23f2003751 (2025-02-04)
+you can go and login using your email id in this below mentioned link
+
+<https://home.openweathermap.org/api_keys>
+
+### 23f2003751 (2025-02-04)
+you can go and login using your email id in this below mentioned link
+
+<https://home.openweathermap.org/api_keys>
+
+### 23f2003751 (2025-02-04)
+you can go and login using your email id in this below mentioned link
+
+<https://home.openweathermap.org/api_keys>
+
+### JoelJeffrey (2025-02-04)
+Error: At [10].year: Values don’t match. Expected: "2025– ". Actual: “2025–”
+
+Can someone help me with this?  
+Thanks
+
+Edit: Resolved
+
+### JoelJeffrey (2025-02-04)
+Error: At [10].year: Values don’t match. Expected: "2025– ". Actual: “2025–”
+
+Can someone help me with this?  
+Thanks
+
+Edit: Resolved
+
+### JoelJeffrey (2025-02-04)
+Error: At [10].year: Values don’t match. Expected: "2025– ". Actual: “2025–”
+
+Can someone help me with this?  
+Thanks
+
+Edit: Resolved
+
+### JoelJeffrey (2025-02-04)
+Error: At [10].year: Values don’t match. Expected: "2025– ". Actual: “2025–”
+
+Can someone help me with this?  
+Thanks
+
+Edit: Resolved
+
+### JoelJeffrey (2025-02-04)
+Error: At [10].year: Values don’t match. Expected: "2025– ". Actual: “2025–”
+
+Can someone help me with this?  
+Thanks
+
+Edit: Resolved
+
+### JoelJeffrey (2025-02-04)
+Error: At [10].year: Values don’t match. Expected: "2025– ". Actual: “2025–”
+
+Can someone help me with this?  
+Thanks
+
+Edit: Resolved
+
+### JoelJeffrey (2025-02-04)
+Error: At [10].year: Values don’t match. Expected: "2025– ". Actual: “2025–”
+
+Can someone help me with this?  
+Thanks
+
+Edit: Resolved
+
+### JoelJeffrey (2025-02-04)
+Error: At [10].year: Values don’t match. Expected: "2025– ". Actual: “2025–”
+
+Can someone help me with this?  
+Thanks
+
+Edit: Resolved
+
+### JoelJeffrey (2025-02-04)
+Error: At [10].year: Values don’t match. Expected: "2025– ". Actual: “2025–”
+
+Can someone help me with this?  
+Thanks
+
+Edit: Resolved
+
+### JoelJeffrey (2025-02-04)
+Error: At [10].year: Values don’t match. Expected: "2025– ". Actual: “2025–”
+
+Can someone help me with this?  
+Thanks
+
+Edit: Resolved
+
+### JoelJeffrey (2025-02-04)
+Error: At [10].year: Values don’t match. Expected: "2025– ". Actual: “2025–”
+
+Can someone help me with this?  
+Thanks
+
+Edit: Resolved
+
+### 23f2003853 (2025-02-04)
+Q8 I got the Error: No executed job step matches
+23f2003853@ds.study.iitm.ac.in. the .yml file contains the following  
+" name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 12 * * *’ # Runs daily at 12:00 PM UTC  
+workflow_dispatch: # This allows manual trigger
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    
+    - name: Make a dummy change with email 23f2003853@ds.study.iitm.ac.in in the commit
+      run: |
+        echo "This is a daily commit" > daily_commit.txt
+        git config --global user.email "23f2003853@ds.study.iitm.ac.in"
+        git config --global user.name "23f2003853"
+        git add daily_commit.txt
+        git commit -m "Daily commit from 23f2003853@ds.study.iitm.ac.in"
+        git push"
+    
+
+[@Jivraj](/u/jivraj) can help me to fix the issue
+
+### 23f2003853 (2025-02-04)
+Q8 I got the Error: No executed job step matches
+23f2003853@ds.study.iitm.ac.in. the .yml file contains the following  
+" name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 12 * * *’ # Runs daily at 12:00 PM UTC  
+workflow_dispatch: # This allows manual trigger
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    
+    - name: Make a dummy change with email 23f2003853@ds.study.iitm.ac.in in the commit
+      run: |
+        echo "This is a daily commit" > daily_commit.txt
+        git config --global user.email "23f2003853@ds.study.iitm.ac.in"
+        git config --global user.name "23f2003853"
+        git add daily_commit.txt
+        git commit -m "Daily commit from 23f2003853@ds.study.iitm.ac.in"
+        git push"
+    
+
+[@Jivraj](/u/jivraj) can help me to fix the issue
+
+### 23f2003853 (2025-02-04)
+Q8 I got the Error: No executed job step matches
+23f2003853@ds.study.iitm.ac.in. the .yml file contains the following  
+" name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 12 * * *’ # Runs daily at 12:00 PM UTC  
+workflow_dispatch: # This allows manual trigger
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    
+    - name: Make a dummy change with email 23f2003853@ds.study.iitm.ac.in in the commit
+      run: |
+        echo "This is a daily commit" > daily_commit.txt
+        git config --global user.email "23f2003853@ds.study.iitm.ac.in"
+        git config --global user.name "23f2003853"
+        git add daily_commit.txt
+        git commit -m "Daily commit from 23f2003853@ds.study.iitm.ac.in"
+        git push"
+    
+
+[@Jivraj](/u/jivraj) can help me to fix the issue
+
+### 23f2003853 (2025-02-04)
+Q8 I got the Error: No executed job step matches
+23f2003853@ds.study.iitm.ac.in. the .yml file contains the following  
+" name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 12 * * *’ # Runs daily at 12:00 PM UTC  
+workflow_dispatch: # This allows manual trigger
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    
+    - name: Make a dummy change with email 23f2003853@ds.study.iitm.ac.in in the commit
+      run: |
+        echo "This is a daily commit" > daily_commit.txt
+        git config --global user.email "23f2003853@ds.study.iitm.ac.in"
+        git config --global user.name "23f2003853"
+        git add daily_commit.txt
+        git commit -m "Daily commit from 23f2003853@ds.study.iitm.ac.in"
+        git push"
+    
+
+[@Jivraj](/u/jivraj) can help me to fix the issue
+
+### 23f2003853 (2025-02-04)
+Q8 I got the Error: No executed job step matches
+23f2003853@ds.study.iitm.ac.in. the .yml file contains the following  
+" name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 12 * * *’ # Runs daily at 12:00 PM UTC  
+workflow_dispatch: # This allows manual trigger
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    
+    - name: Make a dummy change with email 23f2003853@ds.study.iitm.ac.in in the commit
+      run: |
+        echo "This is a daily commit" > daily_commit.txt
+        git config --global user.email "23f2003853@ds.study.iitm.ac.in"
+        git config --global user.name "23f2003853"
+        git add daily_commit.txt
+        git commit -m "Daily commit from 23f2003853@ds.study.iitm.ac.in"
+        git push"
+    
+
+[@Jivraj](/u/jivraj) can help me to fix the issue
+
+### 23f2003853 (2025-02-04)
+Q8 I got the Error: No executed job step matches
+23f2003853@ds.study.iitm.ac.in. the .yml file contains the following  
+" name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 12 * * *’ # Runs daily at 12:00 PM UTC  
+workflow_dispatch: # This allows manual trigger
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    
+    - name: Make a dummy change with email 23f2003853@ds.study.iitm.ac.in in the commit
+      run: |
+        echo "This is a daily commit" > daily_commit.txt
+        git config --global user.email "23f2003853@ds.study.iitm.ac.in"
+        git config --global user.name "23f2003853"
+        git add daily_commit.txt
+        git commit -m "Daily commit from 23f2003853@ds.study.iitm.ac.in"
+        git push"
+    
+
+[@Jivraj](/u/jivraj) can help me to fix the issue
+
+### 23f2003853 (2025-02-04)
+Q8 I got the Error: No executed job step matches
+23f2003853@ds.study.iitm.ac.in. the .yml file contains the following  
+" name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 12 * * *’ # Runs daily at 12:00 PM UTC  
+workflow_dispatch: # This allows manual trigger
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    
+    - name: Make a dummy change with email 23f2003853@ds.study.iitm.ac.in in the commit
+      run: |
+        echo "This is a daily commit" > daily_commit.txt
+        git config --global user.email "23f2003853@ds.study.iitm.ac.in"
+        git config --global user.name "23f2003853"
+        git add daily_commit.txt
+        git commit -m "Daily commit from 23f2003853@ds.study.iitm.ac.in"
+        git push"
+    
+
+[@Jivraj](/u/jivraj) can help me to fix the issue
+
+### 23f2003853 (2025-02-04)
+Q8 I got the Error: No executed job step matches
+23f2003853@ds.study.iitm.ac.in. the .yml file contains the following  
+" name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 12 * * *’ # Runs daily at 12:00 PM UTC  
+workflow_dispatch: # This allows manual trigger
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    
+    - name: Make a dummy change with email 23f2003853@ds.study.iitm.ac.in in the commit
+      run: |
+        echo "This is a daily commit" > daily_commit.txt
+        git config --global user.email "23f2003853@ds.study.iitm.ac.in"
+        git config --global user.name "23f2003853"
+        git add daily_commit.txt
+        git commit -m "Daily commit from 23f2003853@ds.study.iitm.ac.in"
+        git push"
+    
+
+[@Jivraj](/u/jivraj) can help me to fix the issue
+
+### 23f2003853 (2025-02-04)
+Q8 I got the Error: No executed job step matches
+23f2003853@ds.study.iitm.ac.in. the .yml file contains the following  
+" name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 12 * * *’ # Runs daily at 12:00 PM UTC  
+workflow_dispatch: # This allows manual trigger
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    
+    - name: Make a dummy change with email 23f2003853@ds.study.iitm.ac.in in the commit
+      run: |
+        echo "This is a daily commit" > daily_commit.txt
+        git config --global user.email "23f2003853@ds.study.iitm.ac.in"
+        git config --global user.name "23f2003853"
+        git add daily_commit.txt
+        git commit -m "Daily commit from 23f2003853@ds.study.iitm.ac.in"
+        git push"
+    
+
+[@Jivraj](/u/jivraj) can help me to fix the issue
+
+### 23f2003853 (2025-02-04)
+Q8 I got the Error: No executed job step matches
+23f2003853@ds.study.iitm.ac.in. the .yml file contains the following  
+" name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 12 * * *’ # Runs daily at 12:00 PM UTC  
+workflow_dispatch: # This allows manual trigger
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    
+    - name: Make a dummy change with email 23f2003853@ds.study.iitm.ac.in in the commit
+      run: |
+        echo "This is a daily commit" > daily_commit.txt
+        git config --global user.email "23f2003853@ds.study.iitm.ac.in"
+        git config --global user.name "23f2003853"
+        git add daily_commit.txt
+        git commit -m "Daily commit from 23f2003853@ds.study.iitm.ac.in"
+        git push"
+    
+
+[@Jivraj](/u/jivraj) can help me to fix the issue
+
+### 23f2000237 (2025-02-04)
+Have a step with your email id as its name. (Instead of checkout repository)  
+Also make sure you give read and write permission so it commits without any
+error
+
+### 23f2000237 (2025-02-04)
+Have a step with your email id as its name. (Instead of checkout repository)  
+Also make sure you give read and write permission so it commits without any
+error
+
+### 23f2000237 (2025-02-04)
+Have a step with your email id as its name. (Instead of checkout repository)  
+Also make sure you give read and write permission so it commits without any
+error
+
+### 23f2000237 (2025-02-04)
+Have a step with your email id as its name. (Instead of checkout repository)  
+Also make sure you give read and write permission so it commits without any
+error
+
+### 23f2000237 (2025-02-04)
+Have a step with your email id as its name. (Instead of checkout repository)  
+Also make sure you give read and write permission so it commits without any
+error
+
+### 23f2000237 (2025-02-04)
+Have a step with your email id as its name. (Instead of checkout repository)  
+Also make sure you give read and write permission so it commits without any
+error
+
+### 23f2000237 (2025-02-04)
+Have a step with your email id as its name. (Instead of checkout repository)  
+Also make sure you give read and write permission so it commits without any
+error
+
+### 23f2000237 (2025-02-04)
+Have a step with your email id as its name. (Instead of checkout repository)  
+Also make sure you give read and write permission so it commits without any
+error
+
+### daksh76 (2025-02-04)
+name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 0 * * *’ # Runs once a day at midnight UTC  
+workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Make daily commit by 23f3000264@ds.study.iitm.ac.in
+      run: |
+        echo "Daily commit by 23f3000264@ds.study.iitm.ac.in" >> daily_commit.txt
+        git add index.html
+        git commit -m "Daily commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+
+sir this is my code and im getting a error in this  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/f/7/f740be2ffaea5957ca053368c20e28f7045362d0.png)image703×137
+9.75 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/f/7/f740be2ffaea5957ca053368c20e28f7045362d0.png
+"image")
+
+### daksh76 (2025-02-04)
+name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 0 * * *’ # Runs once a day at midnight UTC  
+workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Make daily commit by 23f3000264@ds.study.iitm.ac.in
+      run: |
+        echo "Daily commit by 23f3000264@ds.study.iitm.ac.in" >> daily_commit.txt
+        git add index.html
+        git commit -m "Daily commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+
+sir this is my code and im getting a error in this  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/f/7/f740be2ffaea5957ca053368c20e28f7045362d0.png)image703×137
+9.75 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/f/7/f740be2ffaea5957ca053368c20e28f7045362d0.png
+"image")
+
+### daksh76 (2025-02-04)
+name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 0 * * *’ # Runs once a day at midnight UTC  
+workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Make daily commit by 23f3000264@ds.study.iitm.ac.in
+      run: |
+        echo "Daily commit by 23f3000264@ds.study.iitm.ac.in" >> daily_commit.txt
+        git add index.html
+        git commit -m "Daily commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+
+sir this is my code and im getting a error in this  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/f/7/f740be2ffaea5957ca053368c20e28f7045362d0.png)image703×137
+9.75 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/f/7/f740be2ffaea5957ca053368c20e28f7045362d0.png
+"image")
+
+### daksh76 (2025-02-04)
+name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 0 * * *’ # Runs once a day at midnight UTC  
+workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Make daily commit by 23f3000264@ds.study.iitm.ac.in
+      run: |
+        echo "Daily commit by 23f3000264@ds.study.iitm.ac.in" >> daily_commit.txt
+        git add index.html
+        git commit -m "Daily commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+
+sir this is my code and im getting a error in this  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/f/7/f740be2ffaea5957ca053368c20e28f7045362d0.png)image703×137
+9.75 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/f/7/f740be2ffaea5957ca053368c20e28f7045362d0.png
+"image")
+
+### daksh76 (2025-02-04)
+name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 0 * * *’ # Runs once a day at midnight UTC  
+workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Make daily commit by 23f3000264@ds.study.iitm.ac.in
+      run: |
+        echo "Daily commit by 23f3000264@ds.study.iitm.ac.in" >> daily_commit.txt
+        git add index.html
+        git commit -m "Daily commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+
+sir this is my code and im getting a error in this  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/f/7/f740be2ffaea5957ca053368c20e28f7045362d0.png)image703×137
+9.75 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/f/7/f740be2ffaea5957ca053368c20e28f7045362d0.png
+"image")
+
+### daksh76 (2025-02-04)
+name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 0 * * *’ # Runs once a day at midnight UTC  
+workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Make daily commit by 23f3000264@ds.study.iitm.ac.in
+      run: |
+        echo "Daily commit by 23f3000264@ds.study.iitm.ac.in" >> daily_commit.txt
+        git add index.html
+        git commit -m "Daily commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+
+sir this is my code and im getting a error in this  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/f/7/f740be2ffaea5957ca053368c20e28f7045362d0.png)image703×137
+9.75 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/f/7/f740be2ffaea5957ca053368c20e28f7045362d0.png
+"image")
+
+### daksh76 (2025-02-04)
+name: Daily Commit
+
+on:  
+schedule:  
+\- cron: ‘0 0 * * *’ # Runs once a day at midnight UTC  
+workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:  
+commit:  
+runs-on: ubuntu-latest
+
+    
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Make daily commit by 23f3000264@ds.study.iitm.ac.in
+      run: |
+        echo "Daily commit by 23f3000264@ds.study.iitm.ac.in" >> daily_commit.txt
+        git add index.html
+        git commit -m "Daily commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+
+sir this is my code and im getting a error in this  
+
+[![image](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/f/7/f740be2ffaea5957ca053368c20e28f7045362d0.png)image703×137
+9.75 KB](https://europe1.discourse-
+cdn.com/flex013/uploads/iitm/original/3X/f/7/f740be2ffaea5957ca053368c20e28f7045362d0.png
+"image")
+
+### 22f2000113 (2025-02-04)
+dont remove the space after year- for example “year”: "2023- "
+
+### 22f2000113 (2025-02-04)
+dont remove the space after year- for example “year”: "2023- "
+
+### 22f2000113 (2025-02-04)
+dont remove the space after year- for example “year”: "2023- "
+
+### 22f2000113 (2025-02-04)
+dont remove the space after year- for example “year”: "2023- "
+
+### 22f2000113 (2025-02-04)
+dont remove the space after year- for example “year”: "2023- "
+
+### 22f2000113 (2025-02-04)
+dont remove the space after year- for example “year”: "2023- "
+
+### 23f2004752 (2025-02-04)
+Please anyone help me in doing q1 , my doubt is when i open the website
+[Advanced search](http://www.imdb.com/search/title) , i have click on movies
+and then do the coding part if not how to select titles of the movies as there
+is no movies on the page.
+
+### 23f2004752 (2025-02-04)
+Please anyone help me in doing q1 , my doubt is when i open the website
+[Advanced search](http://www.imdb.com/search/title) , i have click on movies
+and then do the coding part if not how to select titles of the movies as there
+is no movies on the page.
+
+### 23f2004752 (2025-02-04)
+Please anyone help me in doing q1 , my doubt is when i open the website
+[Advanced search](http://www.imdb.com/search/title) , i have click on movies
+and then do the coding part if not how to select titles of the movies as there
+is no movies on the page.
+
+### 23f2004752 (2025-02-04)
+Please anyone help me in doing q1 , my doubt is when i open the website
+[Advanced search](http://www.imdb.com/search/title) , i have click on movies
+and then do the coding part if not how to select titles of the movies as there
+is no movies on the page.
+
+### 23f2004752 (2025-02-04)
+Please anyone help me in doing q1 , my doubt is when i open the website
+[Advanced search](http://www.imdb.com/search/title) , i have click on movies
+and then do the coding part if not how to select titles of the movies as there
+is no movies on the page.
+
+### 23f2004752 (2025-02-04)
+In q4 i got this error someone pls expalin “Error: At root: Property name
+mismatch”
+
+### 23f2004752 (2025-02-04)
+In q4 i got this error someone pls expalin “Error: At root: Property name
+mismatch”
+
+### 23f2004752 (2025-02-04)
+In q4 i got this error someone pls expalin “Error: At root: Property name
+mismatch”
+
+### 23f2004752 (2025-02-04)
+In q4 i got this error someone pls expalin “Error: At root: Property name
+mismatch”
+
+### 23f2003751 (2025-02-05)
+Student marks - Group 100
+    
+    | Maths | Physics | English | Economics | Biology |
+    | ----- | ------- | ------- | --------- | ------- |
+    | 48    | 51      | 15      | 47        | 65      |
+    | 74    | 70      | 23      | 17        | 70      |
+    | 81    | 50      | 59      | 45        | 51      |
+    | 80    | 63      | 43      | 99        | 28      |
+    | 85    | 72      | 82      | 79        | 14      |
+    | 76    | 50      | 15      | 55        | 13      |
+    | 21    | 86      | 25      | 14        | 64      |
+    | 54    | 72      | 98      | 30        | 96      |
+    | 15    | 24      | 67      | 19        | 35      |
+    | 68    | 82      | 16      | 70        | 67      |
+    | 64    | 94      | 42      | 26        | 10      |
+    | 31    | 79      | 98      | 21        | 24      |
+    | 90    | 32      | 88      | 39        | 56      |
+    | 36    | 72      | 79      | 86        | 96      |
+    | 91    | 61      | 57      | 28        | 23      |
+    | 81    | 40      | 95      | 74        | 30      |
+    | 60    | 31      | 66      | 36        | 83      |
+    | 81    | 16      | 67      | 25        | 90      |
+    | 40    | 96      | 57      | 84        | 47      |
+    | 53    | 92      | 10      | 10        | 82      |
+    | 33    | 40      | 20      | 68        | 95      |
+    | 95    | 48      | 69      | 24        | 42      |
+    | 93    | 84      | 79      | 33        | 17      |
+    | 40    | 81      | 39      | 31        | 60      |
+    | 31    | 44      | 96      | 78        | 54      |
+    | 58    | 21      | 98      | 58        | 44      |
+    | 47    | 22      | 91      | 77        | 46      |
+    | 61    | 93      | 75      | 25        | 79      |
+    | 18    | 19      | 47      | 20        | 58      |
+    | 77    | 51      | 28      | 14        | 97      |
+    
+
+This is the piece of markdown that is being generated for the last question of
+ga4.Even after using the prettier of the mentioned version i am getting
+incorrect answer.  
+Anyone like to help.  
+[@Jivraj](/u/jivraj) [@carlton](/u/carlton) [@s.anand](/u/s.anand)
+
+### 23f2003751 (2025-02-05)
+Student marks - Group 100
+    
+    | Maths | Physics | English | Economics | Biology |
+    | ----- | ------- | ------- | --------- | ------- |
+    | 48    | 51      | 15      | 47        | 65      |
+    | 74    | 70      | 23      | 17        | 70      |
+    | 81    | 50      | 59      | 45        | 51      |
+    | 80    | 63      | 43      | 99        | 28      |
+    | 85    | 72      | 82      | 79        | 14      |
+    | 76    | 50      | 15      | 55        | 13      |
+    | 21    | 86      | 25      | 14        | 64      |
+    | 54    | 72      | 98      | 30        | 96      |
+    | 15    | 24      | 67      | 19        | 35      |
+    | 68    | 82      | 16      | 70        | 67      |
+    | 64    | 94      | 42      | 26        | 10      |
+    | 31    | 79      | 98      | 21        | 24      |
+    | 90    | 32      | 88      | 39        | 56      |
+    | 36    | 72      | 79      | 86        | 96      |
+    | 91    | 61      | 57      | 28        | 23      |
+    | 81    | 40      | 95      | 74        | 30      |
+    | 60    | 31      | 66      | 36        | 83      |
+    | 81    | 16      | 67      | 25        | 90      |
+    | 40    | 96      | 57      | 84        | 47      |
+    | 53    | 92      | 10      | 10        | 82      |
+    | 33    | 40      | 20      | 68        | 95      |
+    | 95    | 48      | 69      | 24        | 42      |
+    | 93    | 84      | 79      | 33        | 17      |
+    | 40    | 81      | 39      | 31        | 60      |
+    | 31    | 44      | 96      | 78        | 54      |
+    | 58    | 21      | 98      | 58        | 44      |
+    | 47    | 22      | 91      | 77        | 46      |
+    | 61    | 93      | 75      | 25        | 79      |
+    | 18    | 19      | 47      | 20        | 58      |
+    | 77    | 51      | 28      | 14        | 97      |
+    
+
+This is the piece of markdown that is being generated for the last question of
+ga4.Even after using the prettier of the mentioned version i am getting
+incorrect answer.  
+Anyone like to help.  
+[@Jivraj](/u/jivraj) [@carlton](/u/carlton) [@s.anand](/u/s.anand)
+
+### 23f2003751 (2025-02-05)
+Student marks - Group 100
+    
+    | Maths | Physics | English | Economics | Biology |
+    | ----- | ------- | ------- | --------- | ------- |
+    | 48    | 51      | 15      | 47        | 65      |
+    | 74    | 70      | 23      | 17        | 70      |
+    | 81    | 50      | 59      | 45        | 51      |
+    | 80    | 63      | 43      | 99        | 28      |
+    | 85    | 72      | 82      | 79        | 14      |
+    | 76    | 50      | 15      | 55        | 13      |
+    | 21    | 86      | 25      | 14        | 64      |
+    | 54    | 72      | 98      | 30        | 96      |
+    | 15    | 24      | 67      | 19        | 35      |
+    | 68    | 82      | 16      | 70        | 67      |
+    | 64    | 94      | 42      | 26        | 10      |
+    | 31    | 79      | 98      | 21        | 24      |
+    | 90    | 32      | 88      | 39        | 56      |
+    | 36    | 72      | 79      | 86        | 96      |
+    | 91    | 61      | 57      | 28        | 23      |
+    | 81    | 40      | 95      | 74        | 30      |
+    | 60    | 31      | 66      | 36        | 83      |
+    | 81    | 16      | 67      | 25        | 90      |
+    | 40    | 96      | 57      | 84        | 47      |
+    | 53    | 92      | 10      | 10        | 82      |
+    | 33    | 40      | 20      | 68        | 95      |
+    | 95    | 48      | 69      | 24        | 42      |
+    | 93    | 84      | 79      | 33        | 17      |
+    | 40    | 81      | 39      | 31        | 60      |
+    | 31    | 44      | 96      | 78        | 54      |
+    | 58    | 21      | 98      | 58        | 44      |
+    | 47    | 22      | 91      | 77        | 46      |
+    | 61    | 93      | 75      | 25        | 79      |
+    | 18    | 19      | 47      | 20        | 58      |
+    | 77    | 51      | 28      | 14        | 97      |
+    
+
+This is the piece of markdown that is being generated for the last question of
+ga4.Even after using the prettier of the mentioned version i am getting
+incorrect answer.  
+Anyone like to help.  
+[@Jivraj](/u/jivraj) [@carlton](/u/carlton) [@s.anand](/u/s.anand)
+
+### JoelJeffrey (2025-02-05)
+For Q10, I am extracting the text first using PyMuPDF (fitz) and then using
+markdownify to convert it to markdown and finally prettier. However despite
+trying changing it from PyMuPDF to other text extraction libraries, I end up
+getting
+
+> Incorrect. Try Again
+
+errors
+
+### JoelJeffrey (2025-02-05)
+For Q10, I am extracting the text first using PyMuPDF (fitz) and then using
+markdownify to convert it to markdown and finally prettier. However despite
+trying changing it from PyMuPDF to other text extraction libraries, I end up
+getting
+
+> Incorrect. Try Again
+
+errors
+
+### 23f2000237 (2025-02-05)
+I think you have used the wrong document, because, this is the marks list for
+Q9

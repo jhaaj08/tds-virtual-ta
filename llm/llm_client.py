@@ -44,22 +44,24 @@ class LLMClient:
         num_tokens += 2  # For assistant priming
         return num_tokens
     
-    def get_embedding(self, inputs: list):
+    def get_embedding(self, inputs: list, embed_model="text-embedding-3-small"):
         """
-        Call the /embeddings endpoint with a list of input strings (e.g., queries or docs).
-        Returns: list of embeddings (list of floats per input).
+        Call the /embeddings endpoint with a list of input strings.
+        Uses `embed_model`, independent of the chat model.
         """
         url = f"{self.base_url}/embeddings"
         data = {
-            "model": self.model,
+            "model": embed_model,
             "input": inputs
         }
 
         try:
             response = httpx.post(url, headers=self.headers, json=data, timeout=30.0)
             response.raise_for_status()
+            print(response.json())
             return [item["embedding"] for item in response.json().get("data", [])]
         except httpx.HTTPStatusError as err:
             raise Exception(f"HTTP error: {err.response.status_code} - {err.response.text}")
         except KeyError:
             raise Exception(f"Invalid response structure: {response.json()}")
+        
