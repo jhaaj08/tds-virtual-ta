@@ -1,11 +1,10 @@
 # retrieval/query_engine.py
 from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
-from dotenv import load_dotenv
-load_dotenv()
+import os 
 
-# ✅ Make sure this matches your actual DB path
-persist_dir = "/Users/ajitjha/Downloads/db"
+# 👇 Use a directory inside your project folder
+persist_dir = os.path.join(os.getcwd(), "db")
 
 # ✅ Use the same embedding model you used during embedding
 embedding_model = "text-embedding-3-small"
